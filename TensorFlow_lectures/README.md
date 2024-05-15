@@ -1,29 +1,26 @@
-# Deep Learning Portfolio
+# TensorFlow Lectures 
 
-This repository is a collection of my projects and learnings in Deep Learning.
+This repository contains lectures on the TensorFlow library from two external GitHub repositories.
 
-Here's what you'll find:
+### Goal:
 
-[NLP Projects:](https://github.com/Lala2398/Deep_Learning/tree/main/NLP%20Projects) Explore projects related to Natural Language Processing tasks.
+This project provides a centralized location to access TensorFlow lectures from various sources, promoting easier learning and exploration.
 
-[Deep Learning TensorFlow with IBM Course:](https://github.com/Lala2398/Deep_Learning/tree/main/DLwith_TensorFlow_IBM) Find materials and notebooks from the Deep Learning TensorFlow with IBM course.
+### Content:
 
-[Computer Vision Project:](https://github.com/Lala2398/Deep_Learning/tree/main/Computer_Vision_Project) Explore a project focused on computer vision tasks.
+This repository contains lectures from two external GitHub repositories that cover the TensorFlow library.
 
-[CNN Project:](https://github.com/Lala2398/Deep_Learning/tree/main/CNN_projects)  Delve into a Convolutional Neural Network (CNN) project.
+Lecture from  @mrdbourke : [NLP_model_0_ipnyb](https://github.com/Lala2398/Deep_Learning/blob/main/TensorFlow_lectures/NLP_model_0_ipnyb.ipynb), [Tensorflow_1_lecture](https://github.com/Lala2398/Deep_Learning/blob/main/TensorFlow_lectures/Tensorflow_1_lecture.ipynb), [TensorFlow_lecture_2](https://github.com/Lala2398/Deep_Learning/blob/main/TensorFlow_lectures/TensorFlow_lecture_2.ipynb), [Transfer_learning_part_1](https://github.com/Lala2398/Deep_Learning/blob/main/TensorFlow_lectures/Transfer_learning_part_1.ipynb), [Transfer_Learning_part_2](https://github.com/Lala2398/Deep_Learning/blob/main/TensorFlow_lectures/Transfer_Learning_part_2.ipynb), [Time_series_Notebook](https://github.com/Lala2398/Deep_Learning/blob/main/TensorFlow_lectures/Time_series_Notebook.ipynb)
 
-[TensorFlow Lectures:](https://github.com/Lala2398/Deep_Learning/tree/main/TensorFlow_lectures) Get access to my notes and resources from TensorFlow lectures.
-
-[Time Series Analysis Notes:](https://github.com/Lala2398/Deep_Learning/tree/main/TimeSeriesAnalysis) Dive into my notes on time series analysis techniques.
+Lecture from @lmoroney : [RockPaperScissors](https://github.com/Lala2398/Deep_Learning/blob/main/TensorFlow_lectures/Course_2_Part_8_Lesson_2_Notebook_(RockPaperScissors).ipynb)
 
 
-This repository serves as a one-stop shop for my Deep Learning journey. Feel free to explore the different projects and resources to learn more about Deep Learning and its applications.
+### Benefits:
+
+Offers a consolidated collection of TensorFlow lectures from different sources.
+
+Enables easy navigation and exploration of various learning materials.
 
 
-Contribution:
+I hope this curated collection simplifies your learning journey with TensorFlow!
 
-Welcome contributions to this repository! If you have any helpful notebooks or data analysis examples to share, feel free to submit a pull request.
-
-License: [MIT License](https://github.com/Lala2398/Deep_Learning/blob/main/LICENSE)
-
-Good Luck :) 
