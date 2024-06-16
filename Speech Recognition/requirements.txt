@@ -1,0 +1,10 @@
+# Hugging Face transformers library is installed from the GitHub repository
+# You can add a specific commit hash if you want a specific version
+git+https://github.com/huggingface/transformers
+
+# IPython is required for displaying audio within the notebook
+ipython
+
+# Additional dependencies that transformers might require
+torch
+
