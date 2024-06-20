@@ -16,6 +16,8 @@ Here's what you'll find:
 
 [Time Series Analysis Notes:](https://github.com/Lala2398/Deep_Learning/tree/main/TimeSeriesAnalysis) Dive into my notes on time series analysis techniques.
 
+[Speech Recognition](https://github.com/Lala2398/Deep_Learning/tree/main/Speech%20Recognition) Get access to the project
+
 
 This repository serves as a one-stop shop for my Deep Learning journey. Feel free to explore the different projects and resources to learn more about Deep Learning and its applications.
 
