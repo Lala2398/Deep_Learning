@@ -10,6 +10,8 @@ Here's what you'll find:
 
 [Speech Recognition](https://github.com/Lala2398/Deep_Learning/tree/main/Speech%20Recognition) Get access to the project
 
+[NER](https://github.com/Lala2398/Deep_Learning/tree/main/NER) Explore the projects and exercises
+
 [Computer Vision Project:](https://github.com/Lala2398/Deep_Learning/tree/main/Computer_Vision_Project) Explore a project focused on computer vision tasks.
 
 [CNN Project:](https://github.com/Lala2398/Deep_Learning/tree/main/CNN_projects)  Delve into a Convolutional Neural Network (CNN) project.
