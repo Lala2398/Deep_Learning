@@ -6,8 +6,6 @@ Here's what you'll find:
 
 [NLP Projects:](https://github.com/Lala2398/Deep_Learning/tree/main/NLP%20Projects) Explore projects related to Natural Language Processing tasks.
 
-[Deep Learning TensorFlow with IBM Course:](https://github.com/Lala2398/Deep_Learning/tree/main/DLwith_TensorFlow_IBM) Find materials and notebooks from the Deep Learning TensorFlow with IBM course.
-
 [Speech Recognition](https://github.com/Lala2398/Deep_Learning/tree/main/Speech%20Recognition) Get access to the project
 
 [NER](https://github.com/Lala2398/Deep_Learning/tree/main/NER) Explore the projects and exercises
@@ -15,6 +13,8 @@ Here's what you'll find:
 [Computer Vision Project:](https://github.com/Lala2398/Deep_Learning/tree/main/Computer_Vision_Project) Explore a project focused on computer vision tasks.
 
 [CNN Project:](https://github.com/Lala2398/Deep_Learning/tree/main/CNN_projects)  Delve into a Convolutional Neural Network (CNN) project.
+
+[Deep Learning TensorFlow with IBM Course:](https://github.com/Lala2398/Deep_Learning/tree/main/DLwith_TensorFlow_IBM) Find materials and notebooks from the Deep Learning TensorFlow with IBM course.
 
 [TensorFlow Lectures:](https://github.com/Lala2398/Deep_Learning/tree/main/TensorFlow_lectures) Get access to my notes and resources from TensorFlow lectures.
 
