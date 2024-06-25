@@ -8,7 +8,7 @@ This repository is your one-stop shop for exploring Natural Language Processing 
 
 This project delves into the exciting world of medical text analysis. 
 
-[NLP Sentiment Analysis Basic](https://github.com/Lala2398/Deep_Learning/blob/main/NLP%20Projects/NLP_Sentiment%20Analysis/Sentiment_Analysis.ipynb)entime
+[NLP Sentiment Analysis Basic](https://github.com/Lala2398/Deep_Learning/blob/main/NLP%20Projects/NLP_Sentiment%20Analysis/Sentiment_Analysis.ipynb)
 
 [NLP Sentiment Analysis with VADER and Roberta](https://github.com/Lala2398/Deep_Learning/blob/main/NLP%20Projects/NLP_Sentiment%20Analysis/SentimentAnalysis_Vader_Roberta.ipynb) 
 
