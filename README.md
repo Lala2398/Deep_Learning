@@ -4,6 +4,8 @@ This repository is a collection of my projects and learnings in Deep Learning.
 
 Here's what you'll find:
 
+[OpenCV Projects with Turkcell Gelecegi Yazanlar]()   [Certificate]()
+
 [NLP Projects:](https://github.com/Lala2398/Deep_Learning/tree/main/NLP%20Projects) Explore projects related to Natural Language Processing tasks.
 
 [Speech Recognition](https://github.com/Lala2398/Deep_Learning/tree/main/Speech%20Recognition) Get access to the project
